@@ -3,4 +3,8 @@
 
 ### 10 Practicioner Questions
 
-> https://www.certification-questions.com/amazon-pdf/aws-certified-cloud-practitioner-pdf.html
+[Link](https://www.certification-questions.com/amazon-pdf/aws-certified-cloud-practitioner-pdf.html)
+
+
+### AWS Cloud Practitioner Exam Prep
+[Link](https://awscloudpractitionerexamprep.com/)
